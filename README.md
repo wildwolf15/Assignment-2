@@ -23,3 +23,30 @@ Displays whether the number is Even or Odd
 
 ### (Odd)
 <img width="190" height="56" alt="image" src="https://github.com/user-attachments/assets/323427b1-1fbd-41d3-a038-3d8d69910f11" />
+
+<br>  
+<br>
+<br>
+<br>
+
+# Task-2.py – Sum of Numbers from 1 to 50
+
+## Description
+
+This program uses a for loop to iterate over numbers from 1 to 50, calculates the sum of all integers in this range, and displays the final result.
+
+## Steps Performed
+
+- Uses a for loop to iterate over numbers from 1 to 50
+- Calculates the sum of all integers in this range
+- Displays the final sum
+
+## Input
+
+No user input required
+
+## Output
+
+Displays the total sum of numbers from 1 to 50
+
+<img width="294" height="51" alt="image" src="https://github.com/user-attachments/assets/9650b992-de87-4603-ba31-5cc78f84ce16" />
